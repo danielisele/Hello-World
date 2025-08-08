@@ -2,7 +2,7 @@
 # Hello-World
 # Hello World ECS Deployment (CDK + Azure DevOps)
 =======
-# Welcome to your CDK TypeScript project
+# Welcome to my CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
 
